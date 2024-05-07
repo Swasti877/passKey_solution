@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import "@material/web/button/elevated-button";
 
 @Component({
   selector: 'app-root',
